@@ -1,0 +1,13 @@
+h2 {
+    color: blue;
+}
+
+
+
+
+#oats {
+    background-color: blue;
+    background-image: url("./images/oats.jpeg");
+    height: 100px;
+    width: 100px;
+}
